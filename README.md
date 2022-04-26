@@ -15,6 +15,8 @@
 
 * Los valores ingresados deben ser presentados a través de la consola del nevagador; cuando el usuario presione el botón **Generar Mensaje**
 ![](https://raw.githubusercontent.com/PlataformasWeb-P-AA2021/taller03/main/images/consola.png) 
+* Los valor ingresados se deben mostrar en una columna adjunta, cuando se presione el botón **Generar Mensaje**
+![](https://raw.githubusercontent.com/PlataformasWeb-P-AA2022/Taller03/main/images/img-ingreso-datos-002.png) 
 
 * Importante para el campo fecha de nacimieto, usted debe usar el **widgets datepicker** de JqueryUI. https://jqueryui.com/datepicker/
 ![](https://raw.githubusercontent.com/PlataformasWeb-P-AA2021/taller03/main/images/img-datepicker.png) 
